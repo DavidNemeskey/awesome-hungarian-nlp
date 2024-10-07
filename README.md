@@ -149,7 +149,7 @@ Notations:
 
 ### Transformer models
 
-- [`huBERT`](https://hlt.bme.hu/en/resources/hubert) Hungarian BERT base models trained on Webcorpus 2.0 and the Hungarian Wikipedia
+- [`huBERT`](https://huggingface.co/SZTAKI-HLT/hubert-base-cc) Hungarian BERT base model trained on Webcorpus 2.0 and the Hungarian Wikipedia
 - [HIL* Transformer models](https://hilanco.github.io) Pretrained transformer models provided by HILANCO
 - [PULI-BERT-Large](https://huggingface.co/NYTK/PULI-BERT-Large) is a Hungarian BERT large model based on MegatronBERT
 - [PULI-GPT-2](https://huggingface.co/NYTK/PULI-GPT-2) is a Hungarian GPT-2 model
